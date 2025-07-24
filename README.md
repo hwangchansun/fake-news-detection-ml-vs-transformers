@@ -1,4 +1,4 @@
-# Fake News Detection using Transformer Models
+# Fake News Detection: Traditional ML vs Transformer Models
 
 This project focuses on detecting fake news using state-of-the-art Transformer-based models, highlighting their superiority over traditional machine learning classifiers.
 
